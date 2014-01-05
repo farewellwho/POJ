@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1001 Exponentiation", "1001Exponentiation\1001Exponentiation.vcxproj", "{EABDB773-8921-405F-B67B-DDE02ABC2FA6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1002 MemorablePhoneNumber", "1002MemorablePhoneNumber\1002MemorablePhoneNumber.vcxproj", "{FB578BE3-6D2E-4FEB-A803-06C3CB9A19B3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1004 FinancialManagement", "1004FinancialManagement\1004FinancialManagement.vcxproj", "{679B14E1-1B7E-4229-8215-E36A2F1B5479}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1005 ShrinkingLand", "1005ShrinkingLand\1005ShrinkingLand.vcxproj", "{27D09282-1A6F-400D-B7DA-F275EBAA3E04}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1006 Biorhythms", "1006 Biorhythms\1006 Biorhythms.vcxproj", "{51FD001B-998C-4B58-A9ED-4A4FA885E6CE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1003 HangOver", "1003HangOver\HangOver.vcxproj", "{C4535B51-533C-4A0D-BD84-1DE468036C76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EABDB773-8921-405F-B67B-DDE02ABC2FA6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EABDB773-8921-405F-B67B-DDE02ABC2FA6}.Debug|Win32.Build.0 = Debug|Win32
+		{EABDB773-8921-405F-B67B-DDE02ABC2FA6}.Release|Win32.ActiveCfg = Release|Win32
+		{EABDB773-8921-405F-B67B-DDE02ABC2FA6}.Release|Win32.Build.0 = Release|Win32
+		{FB578BE3-6D2E-4FEB-A803-06C3CB9A19B3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FB578BE3-6D2E-4FEB-A803-06C3CB9A19B3}.Debug|Win32.Build.0 = Debug|Win32
+		{FB578BE3-6D2E-4FEB-A803-06C3CB9A19B3}.Release|Win32.ActiveCfg = Release|Win32
+		{FB578BE3-6D2E-4FEB-A803-06C3CB9A19B3}.Release|Win32.Build.0 = Release|Win32
+		{679B14E1-1B7E-4229-8215-E36A2F1B5479}.Debug|Win32.ActiveCfg = Debug|Win32
+		{679B14E1-1B7E-4229-8215-E36A2F1B5479}.Debug|Win32.Build.0 = Debug|Win32
+		{679B14E1-1B7E-4229-8215-E36A2F1B5479}.Release|Win32.ActiveCfg = Release|Win32
+		{679B14E1-1B7E-4229-8215-E36A2F1B5479}.Release|Win32.Build.0 = Release|Win32
+		{27D09282-1A6F-400D-B7DA-F275EBAA3E04}.Debug|Win32.ActiveCfg = Debug|Win32
+		{27D09282-1A6F-400D-B7DA-F275EBAA3E04}.Debug|Win32.Build.0 = Debug|Win32
+		{27D09282-1A6F-400D-B7DA-F275EBAA3E04}.Release|Win32.ActiveCfg = Release|Win32
+		{27D09282-1A6F-400D-B7DA-F275EBAA3E04}.Release|Win32.Build.0 = Release|Win32
+		{51FD001B-998C-4B58-A9ED-4A4FA885E6CE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{51FD001B-998C-4B58-A9ED-4A4FA885E6CE}.Debug|Win32.Build.0 = Debug|Win32
+		{51FD001B-998C-4B58-A9ED-4A4FA885E6CE}.Release|Win32.ActiveCfg = Release|Win32
+		{51FD001B-998C-4B58-A9ED-4A4FA885E6CE}.Release|Win32.Build.0 = Release|Win32
+		{C4535B51-533C-4A0D-BD84-1DE468036C76}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C4535B51-533C-4A0D-BD84-1DE468036C76}.Debug|Win32.Build.0 = Debug|Win32
+		{C4535B51-533C-4A0D-BD84-1DE468036C76}.Release|Win32.ActiveCfg = Release|Win32
+		{C4535B51-533C-4A0D-BD84-1DE468036C76}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
